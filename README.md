@@ -6,9 +6,9 @@ Built with Visual Studio 2015 Community Edition
  To call/execute simply 
  rundll32 evil.dll,EntryPoint
  
- regsvr32 /u evil.dll -->Calls DllUnregisterServer
+ regsvr32 /s /u evil.dll -->Calls DllUnregisterServer
  
  [OR] 
  
- regsvr32 evil.dll --> Calls DllRegisterServer
+ regsvr32 /s evil.dll --> Calls DllRegisterServer
  

@@ -1,0 +1,5 @@
+C:\Users\Research\documents\visual studio 2015\Projects\Evil\Evil\bin\x64\Release\Evil.dll
+C:\Users\Research\documents\visual studio 2015\Projects\Evil\Evil\bin\x64\Release\Evil.pdb
+C:\Users\Research\documents\visual studio 2015\Projects\Evil\Evil\obj\x64\Release\Evil.csprojResolveAssemblyReference.cache
+C:\Users\Research\documents\visual studio 2015\Projects\Evil\Evil\obj\x64\Release\Evil.dll
+C:\Users\Research\documents\visual studio 2015\Projects\Evil\Evil\obj\x64\Release\Evil.pdb

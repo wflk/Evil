@@ -1,0 +1,4 @@
+c:\users\research\documents\visual studio 2015\Projects\Evil\Evil\bin\Debug\Evil.dll
+c:\users\research\documents\visual studio 2015\Projects\Evil\Evil\bin\Debug\Evil.pdb
+c:\users\research\documents\visual studio 2015\Projects\Evil\Evil\obj\Debug\Evil.dll
+c:\users\research\documents\visual studio 2015\Projects\Evil\Evil\obj\Debug\Evil.pdb

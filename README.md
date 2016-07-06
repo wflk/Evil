@@ -7,6 +7,8 @@ Built with Visual Studio 2015 Community Edition
  
  rundll32 evil.dll,EntryPoint
  
+ [OR]
+ 
  regsvr32 /s /u evil.dll -->Calls DllUnregisterServer
  
  [OR] 
